@@ -16,6 +16,3 @@ Rejoignez un vocal configuré et HOP vous avez un vocal a votre nom complètemen
 
 ## Prochaine mise à jour : 
 Et bah non ! Les idées de la prochaine mise à jour sont privées pour le moment 🤣
-
-
-MTEyMjk2OTM2NDc4Njg1NTk0Ng.GpRNtC.nZkaH_IbTSWHdDOaHDSvP9P0K9FfnPcOJ6lAVU
