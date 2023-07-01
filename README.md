@@ -10,9 +10,7 @@ Rejoignez un vocal configuré et HOP vous avez un vocal a votre nom complètemen
 ## Liste des choses en cours de création dans le bot :
 | Idées | Desciption |
 | :---         |     :---:      |
-| Commande help  | Pourvoir voir la liste des commandes sur le bot     |
-| Commande bot-info   | Pouvoir connaitre les informations du bot     |
-| Commande configuration   | Refonte de la commande de configuration bouton/menu     |
+| Commande configuration utilisateur  | Chaque utilisateur peut configurer par défaut son ou ces salon vocaux     |
 
 ## Prochaine mise à jour : 
 Et bah non ! Les idées de la prochaine mise à jour sont privées pour le moment 🤣
