@@ -1,5 +1,5 @@
 ## Description de Voice.Js : 
-**Voice.Js** est un robot DISCORD développé par XDELA#2413, il a pour but de permettre la création de vocal personnalisé sur vos serveurs DISCORD. 
+**Voice.Js** est un robot DISCORD développé par **@xdela**, il a pour but de permettre la création de vocal personnalisé sur vos serveurs DISCORD. 
 Rejoignez un vocal configuré et HOP vous avez un vocal a votre nom complètement personnalisable grâce à un menu de gestion exceptionnel !
 
 ## Liens utiles : 
